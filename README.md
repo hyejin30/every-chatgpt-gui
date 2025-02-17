@@ -10,26 +10,26 @@ If you want to add your app, feel free to open a pull request to add your app to
 - AI Chat | [demo](https://aichat.ksdev.pl) | [source](https://github.com/ksdev-pl/ai-chat)
 - AI Belvedere | [demo](https://ai-belvedere-demo.alergant.us) | [source](https://github.com/DmitriyAlergant-T1A/ai-belvedere/)
 - BetterChatGPT | [demo](https://bettergpt.chat/) | [source](https://github.com/ztjhz/BetterChatGPT)
-- big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi)
+- ❓big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi) : next.js(page router) + prisma, trpc, zustand, sse(eventsource-parser), llama
 - claude-ui | [source](https://github.com/chihebnabil/claude-ui)
 - Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui)
-- ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template)
-- ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo)
-- ChatGPT Cloned | [demo](https://chat-gpt-cloned.netlify.app/) | [source](https://github.com/PrasadBroo/ChatGPT)
-- ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite)
+- ✅ ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template) : next.js, chakra, sse(eventsource-parser), openai only
+- ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo) : astro, css modules
+- ChatGPT Cloned | [demo](https://chat-gpt-cloned.netlify.app/) | [source](https://github.com/PrasadBroo/ChatGPT) : react + vite, zustand + immer, sse
+- ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite) : next.js 15, k8s, radix/ui
 - ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal)
 - ChatGPT Next Web | [demo](https://app.nextchat.dev/) | [source](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel)
-- ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web)
-- Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt)
-- L-GPT | [demo](https://le-ai.app/) | [source](https://github.com/Peek-A-Booo/L-GPT)
-- LobeChat | [demo](https://lobechat.com/) | [source](https://github.com/lobehub/lobe-chat)
-- MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
+- ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel) : solid-js
+- ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web) : svelte + vite
+- Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt) : react + vite, mantine, redux, sqlite
+- ❓L-GPT | [demo](https://le-ai.app/) | [source](https://github.com/Peek-A-Booo/L-GPT) : next.js + prisma, next-auth, llama
+- ❓LobeChat | [demo](https://lobechat.com/) | [source](https://github.com/lobehub/lobe-chat) : next.js, trpc, antd, gpt-tokenizer, llama
+- MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt) : react+ vite, zod
 - OrionChat | [demo](https://eliaspereirah.github.io/OrionChat) | [source](https://github.com/EliasPereirah/OrionChat)
-- SlickGPT | [demo](https://slickgpt.vercel.app) | [source](https://github.com/ShipBit/slickgpt)
+- SlickGPT | [demo](https://slickgpt.vercel.app) | [source](https://github.com/ShipBit/slickgpt) : svelte, firebase
 - SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT) (fork of [ChatGPT UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI))
 - vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt)
-- WebLLM | [demo](https://chat.webllm.ai/) | [source](https://github.com/mlc-ai/web-llm-chat)
+- WebLLM | [demo](https://chat.webllm.ai/) | [source](https://github.com/mlc-ai/web-llm-chat) : next.js, zustand
 
 ### Browser Extension
 - chatGPTBox | [source](https://github.com/josStorer/chatGPTBox)  | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121)
