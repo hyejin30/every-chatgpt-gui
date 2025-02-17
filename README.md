@@ -13,7 +13,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ❓big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi) : next.js(page router) + prisma, trpc, zustand, sse(eventsource-parser), llama
 - claude-ui | [source](https://github.com/chihebnabil/claude-ui)
 - Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui)
-- ✅ ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template) : next.js, chakra, sse(eventsource-parser), openai only
+- ❓ ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template) : next.js, chakra, sse(eventsource-parser), openai only
 - ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo) : astro, css modules
 - ✅ ChatGPT Cloned | [demo](https://chat-gpt-cloned.netlify.app/) | [source](https://github.com/PrasadBroo/ChatGPT) : react + vite, zustand + immer, sse, tailwind
 - ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite) : next.js 15, k8s, radix/ui
