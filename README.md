@@ -37,7 +37,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Superpower ChatGPT | [source](https://github.com/saeedezzati/superpower-chatgpt) | [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)
 
 ### Self-Hosted
-- Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse)
+- Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse) : astro
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
 - Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad)
 - Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub)
